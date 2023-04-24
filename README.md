@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+#Project Description
+
+Expense Mate  with voice capabilities can effortlessly keep track of your daily expenses and help you stay within your budget. The app provides useful insights (graphically) to help you make better financial decisions whether personal or business finances.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
